@@ -190,16 +190,3 @@ header {
     background: #555;
     margin-left: 1.5em;
 }
-
-
-/*Exercício curso Alura */
-
-.secao {
-    float: left;
-    width: 33.333%;
-}
-
-.mini {
-    float: left;
-    width: 50%;
-}
